@@ -28,7 +28,7 @@ Hi there 🤠! My name is Vikas Singh Bhaduoria. Here's my [blog](https://vikass
 ## Deep learning
 ![pytorch](https://img.shields.io/badge/Pytorch-purple?style=flat-square&logo=pytorch&logoColor=white)
 ![FastAI](https://img.shields.io/badge/FastAI-purple?style=flat-square&logo=keras&logoColor=white)
-
+![keras](https://img.shields.io/badge/Keras-purple?style=flat-square&logo=keras&logoColor=white)
 
 ## Cloud
 ![GCP](https://img.shields.io/badge/Microsoft_Azure-blue?style=flat-square&logo=azurepipelines&logoColor=white)
