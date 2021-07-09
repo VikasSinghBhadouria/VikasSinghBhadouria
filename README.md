@@ -64,9 +64,12 @@ Hi there 🤠! My name is Vikas Singh Bhaduoria. Here's my [blog](https://vikass
 </a>
 
 <a href="https://github.com/VikasSinghBhadouria/VikasSinghBhadouria/">
-  <img align="center" src="![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikasSinghBhadouria&show_icons=true&theme=radical)
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=VikasSinghBhadouria&show_icons=true&theme=radical)
  />
 </a>
+                           
+                           ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 
 
 <!--
