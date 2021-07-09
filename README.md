@@ -58,11 +58,11 @@ Hi there 🤠! My name is Vikas Singh Bhaduoria. Here's my [blog](https://vikass
 
 # &#x1f4c8; My GitHub Stats
 
-## Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasSinghBhadouria)
 
-## Stats
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikasSinghBhadouria&show_icons=true&count_private=true&title_color=000000&text_color=000000&)
+
+![Vikas's GitHub stats]((https://github-readme-stats.vercel.app/api?username=VikasSinghBhadouria&show_icons=true&theme=vue)
 
 
 
