@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 # Intro
 Hi there 🤠! My name is Vikas Singh Bhaduoria. Here's my [blog](https://vikassinghbhadouria.github.io/Blog/), which is a collection of  my learning, ideas, ticks  to the world of Data Science & AI🤗. 
 
@@ -59,10 +59,10 @@ Hi there 🤠! My name is Vikas Singh Bhaduoria. Here's my [blog](https://vikass
 # &#x1f4c8; My GitHub Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasSinghBhadouria)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasSinghBhadouria)  
 ![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikasSinghBhadouria&show_icons=true&theme=vue)
+
+
 
 
 
