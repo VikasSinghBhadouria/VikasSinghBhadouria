@@ -1,6 +1,12 @@
 ### Hello there 👋
 # Intro
-Hi there 🤠! My name is Vikas Singh Bhaduoria. Here's my [blog](https://vikassinghbhadouria.github.io/Blog/), which is a collection of  my learning, ideas, ticks  to the world of Data Science & AI🤗. 
+Hi there 🤠! My name is Vikas Singh Bhaduoria. 
+I am an experienced Data Scientist with 4+ yrs of experience in delivering proven results.
+Passionate about converting ideas into implemented projects.
+Worked extensively on multiple projects in multiple domains and delivered results within time constraints.
+Experienced in working with MNC, start-up, and individual clients in solving real-world problems.
+
+Here's my [blog](https://vikassinghbhadouria.github.io/Blog/), which is a collection of  my learning, ideas, ticks  to the world of Data Science & AI🤗. 
 
 ---
 # About me
@@ -68,10 +74,9 @@ Hi there 🤠! My name is Vikas Singh Bhaduoria. Here's my [blog](https://vikass
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VikasSinghBhadouria&show_icons=true&theme=vue&count_private=true" alt="VikasSinghBhadouria's GitHub Stats" />
 </a>
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikassinghbhadouria" alt="vikassinghbhadouria" /></a> 
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikassinghbhadouria&" alt="vikassinghbhadouria" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikassinghbhadouria&" alt="VikasSinghBhadouria's GitHub Stats" />
 
 <!--
 **VikasSinghBhadouria/VikasSinghBhadouria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
