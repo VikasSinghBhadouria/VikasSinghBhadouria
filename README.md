@@ -68,6 +68,17 @@ Hi there 🤠! My name is Vikas Singh Bhaduoria. Here's my [blog](https://vikass
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VikasSinghBhadouria&show_icons=true&theme=vue&count_private=true" alt="VikasSinghBhadouria's GitHub Stats" />
 </a>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikassinghbhadouria" alt="vikassinghbhadouria" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikassinghbhadouria&show_icons=true&locale=en&layout=compact" alt="vikassinghbhadouria" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikassinghbhadouria&show_icons=true&locale=en" alt="vikassinghbhadouria" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikassinghbhadouria&" alt="vikassinghbhadouria" /></p>
 
 
 
