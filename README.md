@@ -14,10 +14,9 @@ Here's my [blog](https://vikassinghbhadouria.github.io/Blog/), which is a collec
 
 ---
 # About me
-- 🤖 I'm currently working as Consultant
-- 🔬 I’m currently learning Docker(https://www.docker.com/).
+- 🤖 I'm currently working as Data Science Consultant
+- 🔬 I’m currently learning Project Management.
 - ☁️ I hold the certificate of [IBM Certified Developer - Watson v4](https://www.credly.com/earner/earned/badge/32483615-2c4a-4075-b567-2a3e65bc9ade).
-- 👨‍🏫 Fun fact: Love to read History. 
 - 🌐 Here's my linkedin [profile](https://www.linkedin.com/in/vikassinghbhadouria/).
 - 📫 How to reach me: vikassingbhadouria@protonmail.com
 - 
@@ -27,6 +26,15 @@ Here's my [blog](https://vikassinghbhadouria.github.io/Blog/), which is a collec
 <a href="https://linkedin.com/in/vikassinghbhadouria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikassinghbhadouria" height="30" width="40" /></a>
 <a href="https://kaggle.com/vikassinghsati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vikassinghsati" height="30" width="40" /></a>
 </p>
+---
+# My Certificates : 
+## Professional Certificates:
+- [IBM Watson Developer(V4)] (https://www.credly.com/badges/32483615-2c4a-4075-b567-2a3e65bc9ade/public_url)
+## Sepcializations:
+- [Machine Learning Engineering for Production (MLOps) Specialization] (WIP)
+- [Google Project Management](https://coursera.org/share/525e28f51b3e74ebdd6aaf488e122652)
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V2WFR3M7LKQ3)
+- [Python for Everybody](https://coursera.org/share/78e122d1cb3026685311e32c91c343d2)
 
 ---
 # My toolkit
@@ -54,22 +62,22 @@ Here's my [blog](https://vikassinghbhadouria.github.io/Blog/), which is a collec
 
 ## Cloud
 ![GCP](https://img.shields.io/badge/Microsoft_Azure-blue?style=flat-square&logo=azurepipelines&logoColor=white)
-![aws](https://img.shields.io/badge/Amazon_AWS-blue?style=flat-square&logo=amazon-aws&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-blue?style=flat-square&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-blue?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Heroku-blue?style=flat-square&logo=heroku&logoColor=white)
 
 ## Editor & IDE
 ![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-navy?style=flat-square&logo=visualstudiocode&logoColor=white)
-![googlecolab](https://img.shields.io/badge/Google_Colab-navy?style=flat-square&logo=googlecolab&logoColor=white)
-![jupyter](https://img.shields.io/badge/Jupyter-navy?style=flat-square&logo=jupyter&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/Google_Colab-navy?style=flat-square&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-navy?style=flat-square&logo=jupyter&logoColor=white)
 
 ## Deployment 
-![fastapi](https://img.shields.io/badge/fastAPI-red?style=flat-square&logo=fastapi&logoColor=white)
+![FASTAPI](https://img.shields.io/badge/fastAPI-red?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-red?style=flat-square&logo=Flask&logoColor=white)
 
 ## Control 
-![anaconda](https://img.shields.io/badge/Anaconda-violet?style=flat-square&logo=anaconda&logoColor=white)
-![git](https://img.shields.io/badge/Git-violet?style=flat-square&logo=git&logoColor=white)
-![postman](https://img.shields.io/badge/Postman-violet?style=flat-square&logo=postman&logoColor=white)
+![AnaConda](https://img.shields.io/badge/Anaconda-violet?style=flat-square&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-violet?style=flat-square&logo=git&logoColor=white)
+![PostMan](https://img.shields.io/badge/Postman-violet?style=flat-square&logo=postman&logoColor=white)
 
 ## Database
 ![MSSQL](https://img.shields.io/badge/MSSQL-blueviolet?style=flat-square&logo=mssql&logoColor=white)
