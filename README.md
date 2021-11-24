@@ -25,9 +25,12 @@ Here's my [blog](https://vikassinghbhadouria.github.io/Blog/), which is a collec
 </p>
 ---
 # My Certificates : 
+
 ## Professional Certificates:
-- <a [IBM Watson Developer(V4)] (https://www.credly.com/badges/32483615-2c4a-4075-b567-2a3e65bc9ade/public_url) /></a>
+- [IBM Watson Developer(V4)](https://www.credly.com/badges/32483615-2c4a-4075-b567-2a3e65bc9ade/public_url)
+- 
 ## Sepcializations:
+
 - [Machine Learning Engineering for Production (MLOps) Specialization] (WIP)
 - [Google Project Management](https://coursera.org/share/525e28f51b3e74ebdd6aaf488e122652)
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V2WFR3M7LKQ3)
