@@ -28,7 +28,7 @@ Here's my [blog](https://vikassinghbhadouria.github.io/Blog/), which is a collec
 
 ## Professional Certificates:
 - [IBM Watson Developer(V4)](https://www.credly.com/badges/32483615-2c4a-4075-b567-2a3e65bc9ade/public_url)
-- 
+
 ## Sepcializations:
 
 - [Machine Learning Engineering for Production (MLOps) Specialization] (WIP)
