@@ -24,7 +24,7 @@ Here's my [blog](https://vikassinghbhadouria.github.io/Blog/), which is a collec
 <a href="https://kaggle.com/vikassinghsati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vikassinghsati" height="30" width="40" /></a>
 </p>
 ---
-# My Certificates : 
+## My Certificates : 
 
 ## Professional Certificates:
 - [IBM Watson Developer(V4)](https://www.credly.com/badges/32483615-2c4a-4075-b567-2a3e65bc9ade/public_url)
