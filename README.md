@@ -5,7 +5,7 @@
 ### Hello there 👋
 # Intro
 Hi there 🤠! My name is Vikas Singh Bhaduoria. 
-I am an experienced Data Scientist with 4+ yrs of experience in delivering proven results.
+I am an experienced Data Scientist with 5+ yrs of experience in delivering proven results.
 Passionate about converting ideas into implemented projects.
 Worked extensively on multiple projects in multiple domains and delivered results within time constraints.
 Experienced in working with MNC, start-up, and individual clients in solving real-world problems.
