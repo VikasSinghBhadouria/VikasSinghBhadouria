@@ -19,7 +19,7 @@ Here's my [blog](https://medium.com/@data_guy_vikas), which is a collection of  
 - 🌐 Here's my linkedin [profile](https://www.linkedin.com/in/vikassinghbhadouria/).
 - 📫 How to reach me: vikassingbhadouria@protonmail.com
 <p align="left">
-<a href="https://twitter.com/sanskari_guy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanskari_guy_" height="30" width="40" /></a>
+<a href="https://twitter.com/data_guy_vikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanskari_guy_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vikassinghbhadouria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikassinghbhadouria" height="30" width="40" /></a>
 <a href="https://kaggle.com/vikassinghsati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vikassinghsati" height="30" width="40" /></a>
 </p>
