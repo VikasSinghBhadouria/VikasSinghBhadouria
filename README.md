@@ -10,7 +10,7 @@ Passionate about converting ideas into implemented projects.
 Worked extensively on multiple projects in multiple domains and delivered results within time constraints.
 Experienced in working with MNC, start-up, and individual clients in solving real-world problems.
 
-Here's my [blog](https://vikassinghbhadouria.github.io/Blog/), which is a collection of  my learning, ideas, ticks  to the world of Data Science & AI🤗. 
+Here's my [blog](https://medium.com/@data_guy_vikas), which is a collection of  my learning, ideas, ticks  to the world of Data Science & AI🤗. 
 
 ---
 # About me
